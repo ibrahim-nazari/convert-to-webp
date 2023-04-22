@@ -1,6 +1,6 @@
-const unconvertedImages = "./unconvertedImages/";
-const webpconverted = "./webpconverted/";
-const name = "manawoodllc_closet";
+const unconvertedImages = "./images/";
+const webpconverted = "./convertedToWebp/";
+const name = "image_";
 const sharp = require("sharp");
 const fs = require("fs");
 
